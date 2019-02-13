@@ -1,0 +1,5 @@
+{
+    "titolo":"Benvenuto",
+    "introduzione":"Sono Fabio Barrese, ho creato questo sito per darti gli strumenti necessari per creare videogiochi e/o aggiungere fantastici effetti grafici alle tue pagine web. In questo sito infatti sono presenti due sezioni distinte; nella sezione num. 1 mostrerò come creare un gioco multi piattaforma in Java utilizzando il framework libGDX, mentre nella sezione num. 2 mostrerò come abbellire la propria pagina web utilizzando il framework P5.js e quindi il linguaggio di programmazione JavaScript. Normalmente le sezioni non interagiranno salvo casi eccezionali (es. articolo su gioco html5). Per comprendere bene gli argomenti presenti in questo sito è consigliato avere una conoscenza base dei linguaggi di programmazione, tuttavia mi impegnerò al massimo per spiegare nel modo più semplice possibile così da rendere piacevole la lettura anche ad un utente alle prime armi. 
+    "testo":"ciao"
+}
